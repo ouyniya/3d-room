@@ -1,5 +1,8 @@
 # 🌸 My Cute 3D Room Project 🌸
 
+Live demo: https://3d-room.nysdev.com/
+
+![screenshot](/screen.gif)
 
 Hello and welcome! 🎀  
 This is my very first **3D project**, and I'm so excited to share it with you. It's a small cozy room in 3D where you can just relax, look around, and enjoy the vibe. ☕🛋️✨
