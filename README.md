@@ -2,7 +2,7 @@
 
 Live demo: https://3d-room.nysdev.com/
 
-![screenshot](/screen.gif)
+![screenshot](https://github.com/ouyniya/3d-room/blob/main/public/screen.gif?raw=true)
 
 Hello and welcome! 🎀  
 This is my very first **3D project**, and I'm so excited to share it with you. It's a small cozy room in 3D where you can just relax, look around, and enjoy the vibe. ☕🛋️✨
